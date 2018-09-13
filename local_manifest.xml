@@ -14,7 +14,7 @@
     <remove-project name="platform/developers/demos" />
     <remove-project name="platform/developers/docs" />
     <remove-project name="platform/developers/samples/android" />
-    <remove-project name="CyanogenMod/android_device_common" />
+    <remove-project name="LineageOS/android_device_common" />
     <remove-project name="device/generic/mini-emulator-armv7-a-neon" />
     <remove-project name="device/generic/mini-emulator-mips" />
     <remove-project name="device/generic/mini-emulator-x86" />
